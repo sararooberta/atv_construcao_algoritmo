@@ -14,5 +14,6 @@ def f(nums):
     
     return (duplicado, faltante)
 
+#Utilizando os exemplos da questão
 print(f([1, 2, 2, 4]))
 print(f([1, 1]))
